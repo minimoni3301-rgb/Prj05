@@ -31,7 +31,7 @@ class Tiger extends Animal {
 // 메인이 있는 함수에 public 을 붙인다. 
 public class TestAnimalInherit {
 
-	// method overloading 으로 처리
+
 	public static void main(String[] args) {
 		Dog  chu  = new Dog();
 		work(chu, "츄");

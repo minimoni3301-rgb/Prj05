@@ -5,8 +5,8 @@ class Dog {
   
    String name;
    void   eat() {
-	   System.out.println(name + "(이)가 먹는다");}
-   void  bark() {
+	   System.out.println(name + "(이)가 먹는다");}// void 뒤에 eat을 매서드 이름(함수 이름) 
+   void  bark() {                                  // 메서드 이름은 소문자로 시작하는 것이 관례 
 	   System.out.println(name + "(이)가 멍멍");}
    }
 
