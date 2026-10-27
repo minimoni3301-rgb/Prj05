@@ -66,6 +66,7 @@ public class MemberTest {
 		rescArr[3] = new GirlMember("메이", 2008, "랩");
 		rescArr[4] = new GirlMember("제나", 2008, "보컬");
 		
+		                            //5
 		for (int i =0; i < rescArr.length; i++) {
 			rescArr[i].info();
 		}
