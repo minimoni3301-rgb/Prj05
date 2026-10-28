@@ -22,7 +22,7 @@ class Dog extends Animal{
 	void sound() {
 		System.out.println(name + "(이)가 멍멍");
 		
-		
+
 	}
 	}
 	
@@ -40,6 +40,7 @@ class Tiger extends Animal{
 		System.out.println(name + "(이)가 크앙~~~~~~~~~");	
 	}}
 	
+
 	
 	
 
@@ -71,3 +72,5 @@ public class TestAnimal {
 
 
          
+
+
